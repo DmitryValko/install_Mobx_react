@@ -1,9 +1,9 @@
 # install_Mobx_react
- Instructions for installing mobx in create-react-app
-1) npx create-react-app nameApp
-2) yarn eject
-3)yarn add @babel/plugin-proposal-decorators mobx mobx-react mobx-react-devtools --dev
-4)add babel letter 
+ Instructions for installing mobx in create-react-app<br />
+1) npx create-react-app nameApp<br />
+2) yarn eject<br />
+3)yarn add @babel/plugin-proposal-decorators mobx mobx-react mobx-react-devtools --dev<br />
+4)add babel letter <br />
 ```
 "babel": {
     "presets": [
@@ -17,7 +17,7 @@
 	  ]
   },
 ``` 
-5) yarn start
+5) yarn start<br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
