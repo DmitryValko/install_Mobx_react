@@ -3,7 +3,7 @@
 1) npx create-react-app nameApp<br />
 2) yarn eject<br />
 3) yarn add @babel/plugin-proposal-decorators mobx mobx-react mobx-react-devtools --dev<br />
-4) add babel letter <br />
+4) add this strings in package.json <br />
 ```
 "babel": {
     "presets": [
